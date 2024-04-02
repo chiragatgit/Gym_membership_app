@@ -2,6 +2,9 @@
 # Gym Membership Application
 ## Project Goal
 This user-friendly application that allows users to find and join gyms, manage their memberships, and access workout plans. The application should support various user roles, including Customers, Trainers, and Administrators, each with specific permissions and responsibilities
+
+![Gym App](https://github.com/chiragatgit/expense_manager_app/assets/119803371/8ae978ff-8e10-47ce-b38a-cf79fdd335cb)
+
 ## Gym Management System APIs
 
 ## ADMIN Role API:
