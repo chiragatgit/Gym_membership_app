@@ -27,10 +27,6 @@ This user-friendly application that allows users to find and join gyms, manage t
 
 - **POST** `/user/register` (`@RequestBody UserRequest userRequest`): This API registers a new user record into the database and can be accessed by anyone. It returns a CREATED HTTP status.
 
-## GymController Class
-
-Complete the GymController class by auto-wiring the necessary dependencies and creating the following APIs by completing the relevant controller methods.
-
 ### ADMIN Role API:
 
 - **GET** `/gym/{id}` (`@PathVariable Long id`): This API allows the user to fetch the tax record by its ID and returns an OK HTTP status.
